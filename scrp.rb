@@ -4,7 +4,7 @@ require 'byebug'
 require 'webdrivers'
 require 'watir'
 
-def scraper
+def scraper(search_related)
   browser = Watir::Browser.new
   browser.goto 'https://hackernoon.com/tagged/ruby'
   browser.element(css: "div#stats").wait_until(&:present?)
@@ -18,7 +18,7 @@ def scraper
   total_articles = parsed_page.css('div#stats').text.split(' ')[0].to_i
   page = 1
   last_page = (total_articles / art_in_page.to_f).round
-
+  file = File.open("#{search_related}.txt", "w")
   while (page) <= last_page 
     puts page
     browser.element(css: "div#stats").wait_until(&:present?)
@@ -32,15 +32,26 @@ def scraper
       tag: title.css('a.tag').text,
       ref: "https://hackernoontitle.css" + title.css('h2 a')[0].attributes["href"].text
     }
-    articles << list
-    puts "aded #{list[:title]}"
+   
+    puts "aded title: #{list[:title]}"
+    puts "aded tag: #{list[:tag]}"
+    puts "aded link: #{list[:ref]}"
+    puts ""
+
+    if list[:tag] == search_related
+      file.puts "#{list[:title]}"
+      file.puts "#{list[:tag]}"
+      file.puts "#{list[:ref]}\n\n"
+    end
     end
     browser.link(:aria_label => 'Next').click if page < 8
     
     page += 1
   end
-  articles
+  file.close
 end
 
 
-p scraper
+scraper("ruby")
+scraper("ruby-on-rails")
+scraper("bots")

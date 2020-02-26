@@ -1,0 +1,112 @@
+Get To Know Prime: The Ruby Class For Sustaining Prime Numbers
+ruby
+https://hackernoontitle.css/get-to-know-prime-the-ruby-class-for-sustaining-prime-numbers-ef6h365u
+
+Understanding Boolean Methods in Ruby With Examples
+ruby
+https://hackernoontitle.css/understanding-boolean-methods-in-ruby-with-examples-363n36nu
+
+Interview with Yukihiro Matsumoto: Ruby is Designed for Humans, not Machines
+ruby
+https://hackernoontitle.css/interview-with-yukihiro-matsumoto-ruby-is-designed-for-humans-not-machines-1fee3610
+
+Making Friends with RuboCop: Ruby Static Code Analyzer
+ruby
+https://hackernoontitle.css/making-friends-with-rubocop-ruby-static-code-analyzer-rp9c36wr
+
+How to Use RSpec From Basics to Testing User Input
+ruby
+https://hackernoontitle.css/how-to-use-rspec-from-basics-to-testing-user-input-i03k36m3
+
+Testing Signed and Encrypted Cookies in Rails Application
+ruby
+https://hackernoontitle.css/testing-signed-and-encrypted-cookies-in-rails-application-358z369v
+
+How To Show User Friends Posts Using Ruby on Rails
+ruby
+https://hackernoontitle.css/how-to-show-user-friends-posts-in-your-ruby-on-rails-application-kr2232za
+
+Closure in Ruby and Javascript
+ruby
+https://hackernoontitle.css/closure-in-ruby-and-javascript-5oh3217
+
+How to Integrate ‘devise’ and ‘omniauth-facebook’ Authentication To Your Rails App
+ruby
+https://hackernoontitle.css/how-to-integrate-devise-and-omniauth-facebook-authentication-to-your-rails-app-tyiv3xpi
+
+All For One, And One For All: A Single Ruby on Rails Validator For All Controllers 
+ruby
+https://hackernoontitle.css/all-for-one-and-one-for-all-one-validator-for-all-controllers-ruby-on-rails-wk3l30b2
+
+Get Unused Routes of Large Rails App 🛠
+ruby
+https://hackernoontitle.css/get-unused-routes-of-large-rails-app-0h1cu32lj
+
+Why you should check the performance of your code?
+ruby
+https://hackernoontitle.css/why-you-should-check-the-performance-of-your-code-b62ot3szb
+
+Bare Metal Ruby
+ruby
+https://hackernoontitle.css/bare-metal-ruby-3f7c8504d370
+
+Ruby Methods pt. 2 — Arrays
+ruby
+https://hackernoontitle.css/ruby-methods-pt-2-arrays-d6073075b616
+
+Practical Rails Dev Tips to Improve the Code You Produce
+ruby
+https://hackernoontitle.css/practical-rails-dev-tips-to-improve-the-code-you-produce-b670833d6c54
+
+Everything You Need to Know About Blocks in Ruby
+ruby
+https://hackernoontitle.css/everything-you-need-to-know-about-blocks-in-ruby-2ad99352f855
+
+Send Images and Files via WhatsApp Using Ruby
+ruby
+https://hackernoontitle.css/send-images-and-files-via-whatsapp-using-ruby-773f900764f0
+
+Go Celebrity Spotting made easy with the Twilio API for WhatsApp, AWS Rekognition and Ruby
+ruby
+https://hackernoontitle.css/go-celebrity-spotting-made-easy-with-the-twilio-api-for-whatsapp-aws-rekognition-and-ruby-48909dc14f52
+
+Episode 6: Reflecting on building an airport
+ruby
+https://hackernoontitle.css/episode-6-reflecting-on-building-an-airport-77312022182c
+
+Iterating Through APIs with Multiple Pages
+ruby
+https://hackernoontitle.css/iterating-through-apis-with-multiple-pages-bf9d4f8d029b
+
+Pointless? Programming Problems
+ruby
+https://hackernoontitle.css/pointless-programming-problems-59427ea6f8b6
+
+Bundling Custom Assets with Sprockets
+ruby
+https://hackernoontitle.css/bundling-custom-assets-with-sprockets-c24f541f5527
+
+How I got banned from CodeWars
+ruby
+https://hackernoontitle.css/how-i-got-banned-from-codewars-c21ad6ebee1e
+
+The 3 Tenets of Service Objects in Ruby on Rails
+ruby
+https://hackernoontitle.css/the-3-tenets-of-service-objects-c936b891b3c2
+
+The only sane way to setup Fastlane on a mac
+ruby
+https://hackernoontitle.css/the-only-sane-way-to-setup-fastlane-on-a-mac-4a14cb8549c8
+
+Beyond `tail -f`: powering up your sleuthing skills with Logstash+Kibana
+ruby
+https://hackernoontitle.css/beyond-tail-f-powering-up-your-sleuthing-skills-with-logstash-kibana-978cbf00754a
+
+Making Ruby’s Array.include? faster for symbols
+ruby
+https://hackernoontitle.css/making-rubys-array-include-faster-for-symbols-827a988ec26b
+
+Ruby’s puts is not atomic
+ruby
+https://hackernoontitle.css/rubys-puts-is-not-atomic-889c57fc9a28
+
