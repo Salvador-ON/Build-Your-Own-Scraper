@@ -1,0 +1,119 @@
+aded How to Write Your First Model Tests Using RSpec in Rails Applications
+aded GitHub's 18 Most Popular Ruby on Rails Repositories ( November 2019 )
+aded How to Integrate ‘devise’ and ‘omniauth-facebook’ Authentication To Your Rails App
+aded How To Type HTML & CSS Effectively
+aded All For One, And One For All: A Single Ruby on Rails Validator For All Controllers 
+aded Top 5 Concurrency Interview Questions for Software Engineers
+aded How I Upgraded Rails to Version 5.1.5 And Lived To Tell The Tale
+aded Test-Driven Development with RSpec in Rails
+aded The Good and The Bad of Ruby Development
+aded  Why You Should Learn Several Programming Languages & Where to Learn Them
+aded How To Use Named Scopes In Rails
+aded Get Unused Routes of Large Rails App 🛠
+aded Should Deploying Production Infrastructure be Hard?
+aded How I Started Hacking
+aded RUBY versus PHP: Who Is The Winner ?
+aded Why you should check the performance of your code?
+aded Bare Metal Ruby
+aded Is Ruby on Rails dying: Myth or Reality?
+aded How to download image files in Ruby
+aded Freeze Your Constants in Ruby
+aded Assigns in Ruby on Rails — How you can test instance variables in views and controllers
+aded A practical use for higher order functions in Kotlin.
+aded Ruby Methods pt. 2 — Arrays
+aded The development of Ziltag, an open source image annotation tool
+aded Practical Rails Dev Tips to Improve the Code You Produce
+aded Integrating Bootstrap 4 into Rails 6
+aded Serverless Ruby on AWS Lambda with the Jets framework
+aded Bitbucket + Bitrise: Configuring Continuous Integration for an iOS app
+aded Everything You Need to Know About Blocks in Ruby
+aded Send Images and Files via WhatsApp Using Ruby
+aded Go Celebrity Spotting made easy with the Twilio API for WhatsApp, AWS Rekognition and Ruby
+aded How to Build a Dynamic Website Using Google Sheets and Sinatra
+aded Is Ruby on rails dead in 2019?
+aded Why I Think Warren Buffett Should Invest in PHP
+aded Why and How I Switched from Ruby to Python
+aded GraphQL on Rack — Writing a modular Graphql Server in Ruby
+aded How to Improve Ruby on Rails App Performance
+aded Dockerizing an existing Rails-Postgresql app with Docker compose
+aded The State of Ruby 2019: Is It Dying?
+aded The Web’s Top 7 Websites Built with Ruby on Rails
+aded Build a Ruby based Lambda Function
+aded How to quickly get the dates for the first 10 Mondays using Ruby
+aded Building a Personal Expense Tracker
+aded Two pillars of automated testing
+aded The Programming Language I’m Looking For
+aded Painlessly managing long running processes in your views using Ruby on Rails
+aded Make a slideshow using Ruby on Rails in 50 lines of code and no JavaScript.
+aded Conceptual Compression and Deeper Patterns
+aded 5 KILLER RUBY TALKS OF 2014
+aded HOW I BECAME JUNIOR RUBY ON RAILS DEVELOPER WITH A BIT OF LUCK
+aded Inform your users about breached passwords using Pwned Passwords API
+aded Pairing with a Very Well-Grounded Rubyist: Interview with David A. Black
+aded Why We Chose Angular over React and Django Over Ruby on Rails: How to Choose A Software Startup…
+aded Investing in the developer community to grow your company
+aded Ruby Javascript Kata Comparison
+aded What Ruby taught me
+aded How to start an Open Source project
+aded 🐶 All of the Good Dogs in New York 🐶
+aded Build Dummy Data with Relationships
+aded 5 Ruby on Rails Tips You Probably Don’t Know
+aded Testing Stripe with Rails and RSpec
+aded Episode 6: Reflecting on building an airport
+aded The Practical Guide to Using ActionCable
+aded Receiving and Parsing Email in Rails 5
+aded NamedStruct — Improving Ruby’s Struct
+aded Coding interview: recursion
+aded Crystal — the Ruby you’ve never heard of
+aded Iterating Through APIs with Multiple Pages
+aded Pointless? Programming Problems
+aded 13 more gems I use all.the.time
+aded 3 Step Setting up Heroku schedule (cron) job
+aded Root level slugs for multiple controllers with FriendlyId
+aded “Full Text Search” with SQLite
+aded Rails Web-Scale is Expensive
+aded Programming isn’t easy, coding is.
+aded Bundling Custom Assets with Sprockets
+aded How I got banned from CodeWars
+aded What Should be in a Coder’s Toolbox?
+aded The 3 Tenets of Service Objects in Ruby on Rails
+aded Read this if you’re a Rails developer and your client asks for WordPress
+aded Phoenix is better but Rails is more popular
+aded Integrate a scratchpad file into your Rails dev workflow
+aded The only sane way to setup Fastlane on a mac
+aded Rails Development Without Ruby or Rails
+aded “The Giving Ruby”—The Strange Case of User Enumeration on Heroku (Not Fixed)
+aded Ya tvoy Rubotnik*. Beginner-friendly Ruby boilerplate to build your own Messenger bot
+aded How to make a chat bot that talks to your Rails database
+aded Beyond `tail -f`: powering up your sleuthing skills with Logstash+Kibana
+aded Making Ruby’s Array.include? faster for symbols
+aded Building a face recognition web app in under an hour
+aded Integrating Bootstrap into Rails 5
+aded UK Ruby Salary Bench marking 2017
+aded Your Guide to testing in Ruby on Rails 5
+aded Making sense out of flamegraphs
+aded Going further with Service Objects in Ruby on Rails
+aded This is how I chose the stack for GitShowcase
+aded How to calculate business time between two times efficiently
+aded Service Objects in Ruby on Rails…and you
+aded Percona Migrator Announcement
+aded Performing custom validations in Rails — an example
+aded How to use Hash ID’s in your URL in Ruby on Rails 5
+aded Build your first Facebook Messenger bot in Ruby with Sinatra (Part 3/3)
+aded Elixir: the new wave or an elegant niche?
+aded How to setup and deploy a Rails 5 app on AWS ElasticBeanstalk with PostgreSQL, Redis and more…
+aded Systematize your database— The Ruby way to be the croupier of migrations.
+aded Build your first Facebook Messenger bot in Ruby with Sinatra (Part 2/3)
+aded Build your first Facebook Messenger bot in Ruby with Sinatra and “facebook-messenger” gem (Part…
+aded Simplicity: Software Engineering Wisdom
+aded Elixir for Rubyists: Pattern matching and Recursion
+aded A brief history of languages
+aded Crystal: Ruby syntax with almost C efficiency
+aded GraphQL Api With Rails
+aded Why Elm is Going to Change the World
+aded Ruby vs Python, the Definitive FAQ
+aded Ruby’s puts is not atomic
+aded /deploy your system with Slack
+aded An Argument for Named Parameters
+aded Three things I learned from Sandi Metz’s book as a non-ruby programmer
+aded Wordpress inside a Ruby on Rails app
