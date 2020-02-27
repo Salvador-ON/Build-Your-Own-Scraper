@@ -14,6 +14,22 @@ A Template for Starting New Projects on Ruby on Rails
 ruby-on-rails
 https://hackernoontitle.css/a-template-for-starting-new-projects-on-ruby-on-rails-t66c36iz
 
+Choosing Between Ruby on Rails and Laravel for App Development [A How To Guide]
+ruby-on-rails
+https://hackernoontitle.css/choosing-between-ruby-on-rails-and-laravel-for-app-development-a-how-to-guide-05bu3bjc
+
+What You Need to Know About Ruby on Rails to Start Developing Your First Application
+ruby-on-rails
+https://hackernoontitle.css/what-you-need-to-know-about-ruby-on-rails-to-start-developing-your-first-application-rhgx374a
+
+Debugging Has_Many, Through Relationships in Ruby on Rails
+ruby-on-rails
+https://hackernoontitle.css/debugging-has_many-through-relationships-in-ruby-on-rails-a65s366p
+
+A Template for Starting New Projects on Ruby on Rails
+ruby-on-rails
+https://hackernoontitle.css/a-template-for-starting-new-projects-on-ruby-on-rails-t66c36iz
+
 How I Upgraded Rails to Version 5.1.5 And Lived To Tell The Tale
 ruby-on-rails
 https://hackernoontitle.css/how-i-upgraded-rails-to-version-515-and-lived-to-tell-the-tale-2fhy30sn
@@ -113,8 +129,4 @@ https://hackernoontitle.css/how-to-use-hash-ids-in-your-url-in-ruby-on-rails-5-e
 Systematize your database— The Ruby way to be the croupier of migrations.
 ruby-on-rails
 https://hackernoontitle.css/systematize-your-database-the-ruby-way-to-be-the-croupier-of-migrations-7c9d56bc628d
-
-Wordpress inside a Ruby on Rails app
-ruby-on-rails
-https://hackernoontitle.css/wordpress-inside-a-ruby-on-rails-app-c324fbf39ad8
 
