@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# Browser Class, search for the target elements and save it in an array
 class Browser
   attr_reader :parsed_page, :last_page, :titles, :titles_arr, :ref_arr
   def initialize
@@ -8,14 +11,12 @@ class Browser
   end
 
   def parsed
-    @browser.element(css: "div#stats").wait_until(&:present?)
-    js_rendered_content = @browser.element(css: "div#stats")
+    @browser.element(css: 'div#stats').wait_until(&:present?)
     @parsed_page = Nokogiri::HTML(@browser.html)
   end
 
   def parsed_wait
-    @browser.element(css: "div#stats").wait_until(&:present?)
-    js_rendered_content = @browser.element(css: "div#stats")
+    @browser.element(css: 'div#stats').wait_until(&:present?)
     sleep(1)
     @parsed_page = Nokogiri::HTML(@browser.html)
   end
@@ -31,25 +32,22 @@ class Browser
     @last_page
   end
 
+  # rubocop: disable Metrics/AbcSize
   def scrap_page(s_arr)
-    @titles = @parsed_page.css('div.stories-item')
-    @titles.each do |title|
-      list = {
-      title: title.css('h2 a').text,
-      ref: "https://hackernoon.com" + title.css('h2 a')[0].attributes["href"].text
-      }
-      #puts list[:title]
-      #@@write.classify(list[:ref], list[:title], list[:ref])
-      if s_arr.all? { |i| list[:title].downcase.split().include?(i) }
+    @parsed_page.css('div.stories-item').each do |title|
+      list_title = title.css('h2 a').text
+      url = 'https://hackernoon.com'
+      list_ref = url + title.css('h2 a')[0].attributes['href'].text
+      list = { title: list_title, ref: list_ref }
+      if s_arr.all? { |i| list[:title].downcase.split.include?(i) }
         @titles_arr.push(list[:title])
         @ref_arr.push(list[:ref])
       end
     end
   end
+  # rubocop: enable Metrics/AbcSize
 
-  def change_page
-    @browser.link(:aria_label => 'Next').click if $page < @last_page
+  def change_page(page)
+    @browser.link(aria_label: 'Next').click if page < @last_page
   end
-
-
 end
