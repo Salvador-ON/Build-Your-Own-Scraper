@@ -35,8 +35,10 @@ class Start
     @last_page = @start.check_total_pages
   end
 
+  # rubocop: disable Metrics/MethodLength
   def writing_search
     write = Filewrite.new(@search_input_arr)
+    write.build_html
     while @page <= @last_page
       @start.parsed_wait
       @start.scrap_page(@search_input_arr)
@@ -44,9 +46,11 @@ class Start
       @page += 1
     end
     write.classify(@start.titles_arr, @start.ref_arr)
+    write.end_html
     write.close_file
   end
 end
+# rubocop: enable Metrics/MethodLength
 
 new_search = Start.new
 new_search.start_search

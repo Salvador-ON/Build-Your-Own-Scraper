@@ -4,7 +4,7 @@ require './lib/write_file.rb'
 
 RSpec.describe Filewrite do
   arr1 = %w[RSPEC-TEST-ruby rails]
-  p_name = 'searches/search-related-to-' + "#{arr1.join('-')}.txt"
+  p_name = 'searches/search-related-to-' + "#{arr1.join('-')}.html"
 
   describe '#Filewrite' do
     context 'when is initialize create a new file give true' do
