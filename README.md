@@ -65,7 +65,7 @@ sleep(1)
 * [Ruby](https://www.ruby-lang.org)
 
 
-## Authors
+## Author
 
 **Salvador Olvera**
 - Linkedin: [Salvador Olvera](https://www.linkedin.com/in/salvador-olvera-n)
