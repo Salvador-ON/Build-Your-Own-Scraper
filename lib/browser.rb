@@ -2,7 +2,8 @@
 
 # Browser Class, search for the target elements and save it in an array
 class Browser
-  attr_reader :parsed_page, :last_page, :titles, :titles_arr, :ref_arr
+  attr_reader :parsed_page, :last_page, :titles, :titles_arr
+  attr_reader :ref_arr, :art_in_page
   def initialize
     @browser = Watir::Browser.new
     @browser.goto 'https://hackernoon.com/tagged/ruby'
