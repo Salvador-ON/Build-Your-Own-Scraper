@@ -2,7 +2,7 @@
 
 This project creates a Scraper that allows the user to search coding articles on [Hackernoon](https://hackernoon.com/tagged/ruby) web site using keywords. And shows the results that match the keywords in a html file. The file after the search is located in searches folder. 
 
-I build this scraper to help people to optimize their time that spend navigating on the web looking for some articles related to a specific topic.
+I build this scraper to help people to optimize their time that spend navigating on Hackernoon web looking for some articles related to a specific topic.
 
 ## Getting Started
 
@@ -54,7 +54,7 @@ By default the target of Scraper right now is the coding ruby section but you ca
 
 ## Trouble Shooting
 
-If you have a slow internet connection you can increment the wait time of the parsed_wait method that it is located in lib/browser.rb. Changing the number of sleep seconds.
+If you have a slow internet connection you can increment the wait time of the parsed_wait method that it is located in lib/browser.rb. Changing the number of sleep seconds. So the scraper could be able to change to other pages in the correct time.
 
 ```
 sleep(1)
