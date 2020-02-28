@@ -4,7 +4,8 @@
 class Filewrite
   attr_reader :file
   def initialize(search_arr)
-    @file = File.open("searches/search-related-to-#{search_arr.join('-')}.txt", 'w')
+    prefix = 'searches/search-related-to-'
+    @file = File.open(prefix + "#{search_arr.join('-')}.txt", 'w')
   end
 
   def classify(list_title, list_ref)
