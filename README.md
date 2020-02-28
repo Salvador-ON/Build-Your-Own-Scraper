@@ -1,6 +1,6 @@
 # Microverse - Ruby Capstone Project - Build your own scraper
 
-This project creates Scraper that allows the user to search coding articles on [Hackernoon](https://hackernoon.com/tagged/ruby) web site using keywords. And shows the results that match the keywords in a html file. The file after the search is located in searches folder. 
+This project creates a Scraper that allows the user to search coding articles on [Hackernoon](https://hackernoon.com/tagged/ruby) web site using keywords. And shows the results that match the keywords in a html file. The file after the search is located in searches folder. 
 
 I build this scraper to help people to optimize their time that spend navigating on the web looking for some articles related to a specific topic.
 
