@@ -73,7 +73,7 @@ class Start
   end
 
   def new_search
-    puts 'if you want to start a new search type Y'
+    puts 'if you want to start a new search type: Y'
     puts 'if you want to close the program type any other character'
     user_ans = gets.chomp.upcase
     search_again if user_ans == 'Y'
