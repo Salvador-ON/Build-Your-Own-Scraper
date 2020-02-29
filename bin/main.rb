@@ -68,13 +68,13 @@ class Start
     puts @start.titles_arr
     puts ''
     puts 'To visualize the articles go to the searches folder'
-    puts "And open search-related-to-#{@search_input_arr.join('-')}.html"
+    puts "And open search-related-to-#{@search_input_arr.join('-')}.html\n\n"
     new_search
   end
 
   def new_search
-    puts 'if you want to start a new search type: Y'
-    puts 'if you want to close the program type any other character'
+    puts "if you want to start a new search type: Y\n\n"
+    puts "if you want to close the program type any other character\n\n"
     user_ans = gets.chomp.upcase
     search_again if user_ans == 'Y'
   end
