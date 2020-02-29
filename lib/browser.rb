@@ -51,4 +51,8 @@ class Browser
   def change_page(page)
     @browser.link(aria_label: 'Next').click if page < @last_page
   end
+
+  def close_window
+    @browser.close
+  end
 end
