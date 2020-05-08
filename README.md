@@ -52,6 +52,14 @@ By default the target of Scraper right now is the coding ruby section but you ca
 @browser.goto 'https://hackernoon.com/tagged/ruby'
 ```
 
+## Test-driven development RSPEC
+
+The code include include a unit testing using RSPEC. To start the test run the next line in your terminal:
+
+```
+rspec
+```
+
 ## Trouble Shooting
 
 If you have a slow internet connection you can increment the wait time of the parsed_wait method that it is located in lib/browser.rb. Changing the number of sleep seconds. So the scraper could be able to change to other pages in the correct time.
