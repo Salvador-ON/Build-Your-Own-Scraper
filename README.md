@@ -54,7 +54,7 @@ By default the target of Scraper right now is the coding ruby section but you ca
 
 ## Test-driven development RSPEC
 
-The code includes a unit testing using RSPEC. To start the test run the next line in your terminal:
+The code includes unit testing using RSPEC. To start the test run the next line in your terminal:
 
 ```
 rspec
