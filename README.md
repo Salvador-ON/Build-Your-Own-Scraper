@@ -4,6 +4,8 @@ This project creates a Scraper that allows the user to search coding articles on
 
 I build this scraper to help people to optimize their time that spends looking for articles related to a specific topic on the Hackernoon website.
 
+![screenshoot](./scrapper.gif)
+
 ## Getting Started
 
 To get started, you should first get this file in your local machine by downloading this project or typing.
