@@ -2,7 +2,7 @@
 
 This project creates a Scraper that allows the user to search coding articles on [Hackernoon](https://hackernoon.com/tagged/ruby) web site using keywords. And shows the results that match the keywords in a html file. The file after the search is located in searches folder. 
 
-I build this scraper to help people to optimize their time that spend navigating on Hackernoon web looking for some articles related to a specific topic.
+I build this scraper to help people to optimize their time that spends looking for articles related to a specific topic on the Hackernoon website.
 
 ## Getting Started
 
