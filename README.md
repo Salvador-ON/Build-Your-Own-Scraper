@@ -16,7 +16,7 @@ git clone https://github.com/Salvador-ON/Build-Your-Own-Scraper
 
 ### Prerequisites
 
-Before you start using the scraper, you need to be sure that you have ruby installed on your computer, by typing.
+Before you start using the scraper, you need to be sure that you have Ruby installed on your computer, by typing.
 
 ```
 ruby -v
@@ -48,7 +48,7 @@ When the program starts, It is going to ask you to type the keywords separated b
 ```
 ruby rails
 ```
-By default, the target of Scraper right now is the coding ruby section but you can change to any other Hackernoon section. You only need to change the URL that is in the initialize of the Browser class.
+By default, the target of Scraper right now is the coding Ruby section but you can change to any other Hackernoon section. You only need to change the URL that is in the initialize of the Browser class.
 
 ```
 @browser.goto 'https://hackernoon.com/tagged/ruby'
