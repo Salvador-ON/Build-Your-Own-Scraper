@@ -1,6 +1,6 @@
 # Microverse - Ruby Capstone Project - Build your own scraper
 
-This project creates a Scraper that allows the user to search coding articles on [Hackernoon](https://hackernoon.com/tagged/ruby) web site using keywords. And shows the results that match the keywords in a html file. The file after the search is located in searches folder. 
+This project creates a Scraper that allows the user to search coding articles on [Hackernoon](https://hackernoon.com/tagged/ruby) web site using keywords. And shows the results that match the keywords in an HTML file. The file after the search is located in searches folder. 
 
 I build this scraper to help people to optimize their time that spends looking for articles related to a specific topic on the Hackernoon website.
 
@@ -16,7 +16,7 @@ git clone https://github.com/Salvador-ON/Build-Your-Own-Scraper
 
 ### Prerequisites
 
-Before you start using the scraper, you need to be sure that you have ruby installed in your computer, by typing .
+Before you start using the scraper, you need to be sure that you have ruby installed on your computer, by typing.
 
 ```
 ruby -v
@@ -26,29 +26,29 @@ and it should return something like.
 
 ####### ruby 2.6.##### (20##-##-## revision 6####) [########]
 
-If it's not installed in your sytem, follow this [guide](https://www.ruby-lang.org/en/documentation/installation/) and it will help you te get it done.
+If it's not installed in your system, follow this [guide](https://www.ruby-lang.org/en/documentation/installation/) and it will help you to get it done.
 
 
 ## Running the Program 
 
-You need to open your terminal, and go to the downloaded folder, then You need to run the next comand to install the gems.
+You need to open your terminal and go to the downloaded folder, then You need to run the next command to install the gems.
 
 ```
 bundle install
 ```
 
-Then you can run the next comand that start the program.
+Then you can run the next command that starts the program.
 
 ```
 ruby bin/main.rb
 ```
 
-When the program start, It is going to ask you to type the keywords separated by a space, rember to only use keywords to optimize the search.
+When the program starts, It is going to ask you to type the keywords separated by a space, remember to only use keywords to optimize the search.
 
 ```
 ruby rails
 ```
-By default the target of Scraper right now is the coding ruby section but you can change to any other Hackernoon section. You only need to change  the url that is in the initialize of the Browser class.
+By default, the target of Scraper right now is the coding ruby section but you can change to any other Hackernoon section. You only need to change the URL that is in the initialize of the Browser class.
 
 ```
 @browser.goto 'https://hackernoon.com/tagged/ruby'
@@ -56,7 +56,7 @@ By default the target of Scraper right now is the coding ruby section but you ca
 
 ## Test-driven development RSPEC
 
-The code includes unit testing using RSPEC. To start the test run the next line in your terminal:
+The code includes unit testing using RSpec. To start the test run the next line in your terminal:
 
 ```
 rspec
@@ -85,18 +85,13 @@ sleep(1)
 
 ## Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](./issues/).
 
 ## Show your support
 
-Give as start if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Thanks to Microverse!
+Give a start if you like this project!
 
 ## License
 
